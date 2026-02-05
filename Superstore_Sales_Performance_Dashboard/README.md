@@ -27,4 +27,5 @@ top-performing regions, products, and categories.
 Built an interactive Excel dashboard to support data-driven business decisions.
 
 **Preview** 
-![Dashboard](Superstore%20sales%20Dashboard.png)
+[Dashboard](Superstore_Sales_Performance_Dashboard/Superstore%20sales%20Dashboard%20.png)
+
